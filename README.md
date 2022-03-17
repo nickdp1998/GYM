@@ -1,15 +1,15 @@
 # GYM
-Projet dans le cadre du cours génie logiciel.
+Projet dans le cadre du cours génie logiciel.<br />
 Le but de ce projet est de créer une application qui gère l'inscription des clients d'un gym à des séances données par des professionnels. L'importance ici n'est pas sur la base de donnée, mais plutôt sur la structure du logiciel et les principes de base du génie logiciel.
 
 # Guide d'utilisation 
 Notes générales
-    - Toutes les entrées ne doivent pas posséder le symboles ";"
+    - Toutes les entrées ne doivent pas posséder le symboles ";"<br />
     - Pour confirmer une opération, on doit entrer "Confirmer" exactement, avec
-      la majuscule. Dans le cas contraire, l'opération sera annulée
+      la majuscule. Dans le cas contraire, l'opération sera annulée<br />
     - S'il est impossible d'annuler un opération, par exemple lors de la création
       d'un client, simplement terminer la création avec de fausses informations
-      et ne pas entrer "Confirmer" à la fin 
+      et ne pas entrer "Confirmer" à la fin <br />
     - Les "0" sont significatif dans les numéros de client/professionnel/service
 
 Section 1 : Agent
