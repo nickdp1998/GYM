@@ -5,12 +5,12 @@ Le but de ce projet est de créer une application qui gère l'inscription des cl
 # Guide d'utilisation 
 Notes générales
 
-    - Toutes les entrées ne doivent pas posséder le symboles ";"<br />
+    - Toutes les entrées ne doivent pas posséder le symboles ";"
     - Pour confirmer une opération, on doit entrer "Confirmer" exactement, avec
-      la majuscule. Dans le cas contraire, l'opération sera annulée<br />
+      la majuscule. Dans le cas contraire, l'opération sera annulée
     - S'il est impossible d'annuler un opération, par exemple lors de la création
       d'un client, simplement terminer la création avec de fausses informations
-      et ne pas entrer "Confirmer" à la fin <br />
+      et ne pas entrer "Confirmer" à la fin 
     - Les "0" sont significatif dans les numéros de client/professionnel/service
 
 Section 1 : Agent
